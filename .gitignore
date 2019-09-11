@@ -75,3 +75,6 @@ fabric.properties
 .ipynb_checkpoints/
 
 class_work/week_01/some_file.txt
+
+*.DS_Store
+.DS_Store
